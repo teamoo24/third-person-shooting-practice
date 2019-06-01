@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPrototyping", "2DPrototyping.csproj", "{4C5511A1-9F98-0766-9779-2FA44A81B8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPrototyping.Editor", "2DPrototyping.Editor.csproj", "{CE9DFAE2-644B-F55A-2153-BFCD193D8156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5511A1-9F98-0766-9779-2FA44A81B8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5511A1-9F98-0766-9779-2FA44A81B8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5511A1-9F98-0766-9779-2FA44A81B8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5511A1-9F98-0766-9779-2FA44A81B8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9DFAE2-644B-F55A-2153-BFCD193D8156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9DFAE2-644B-F55A-2153-BFCD193D8156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9DFAE2-644B-F55A-2153-BFCD193D8156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9DFAE2-644B-F55A-2153-BFCD193D8156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
